@@ -1,0 +1,272 @@
+.root {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  padding: 0px;
+}
+.tv1 {
+  background: rgba(255, 255, 255, 1);
+  width: 1280px;
+  height: 720px;
+  display: block;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame7 {
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 25px;
+  left: 396px;
+}
+.frame7 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: calc(0px - 3px);
+  height: calc(100% + 3px);
+}
+.frame7 > :global(.__wab_flex-container) > *,
+.frame7 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame7 > :global(.__wab_flex-container) > picture > img,
+.frame7
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 3px;
+}
+.img {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 488px;
+  height: 292px;
+  display: block !important;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.img > picture > img {
+  object-fit: cover;
+}
+.img > :global(.__wab_img-spacer) > img {
+  object-fit: cover;
+}
+.frame3 {
+  flex-direction: row;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  padding: 10px;
+}
+.frame3 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.frame3 > :global(.__wab_flex-container) > *,
+.frame3 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame3 > :global(.__wab_flex-container) > picture > img,
+.frame3
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 10px;
+}
+.text__cvcbv {
+  display: block;
+  font-size: 40px;
+  text-align: center;
+  font-family: "Jura", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: relative;
+}
+.frame5 {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 390px;
+  left: 263px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.text___7ArJs {
+  display: block;
+  font-size: 40px;
+  text-align: center;
+  font-family: "Jura", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: relative;
+}
+.rectangle1 {
+  background: rgba(255, 255, 255, 1);
+  box-shadow: inset 0px 0px 0px 1px rgba(107, 98, 255, 1);
+  width: 743px;
+  height: 48px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+  border-radius: 12px;
+}
+.frame6 {
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 488px;
+  left: 263px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.text__jc3Wk {
+  display: block;
+  font-size: 40px;
+  text-align: center;
+  font-family: "Jura", sans-serif;
+  font-weight: 300;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: relative;
+}
+.rectangle2 {
+  background: rgba(255, 255, 255, 1);
+  box-shadow: inset 0px 0px 0px 1px rgba(107, 98, 255, 1);
+  width: 743px;
+  height: 48px;
+  display: block;
+  position: relative;
+  flex-shrink: 0;
+  border-radius: 12px;
+}
+.frame10 {
+  flex-direction: row;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: absolute;
+  top: 598px;
+  left: 371px;
+}
+.frame10 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: calc(0px - 275px);
+  width: calc(100% + 275px);
+}
+.frame10 > :global(.__wab_flex-container) > *,
+.frame10 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame10 > :global(.__wab_flex-container) > picture > img,
+.frame10
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 275px;
+}
+.frame8 {
+  flex-direction: row;
+  background: rgba(107, 98, 255, 1);
+  box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 1);
+  width: 123px;
+  height: 87px;
+  display: flex;
+  position: relative;
+  flex-shrink: 0;
+  border-radius: 12px;
+  padding: 10px;
+}
+.frame8 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.frame8 > :global(.__wab_flex-container) > *,
+.frame8 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame8 > :global(.__wab_flex-container) > picture > img,
+.frame8
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 10px;
+}
+.text__za6Bp {
+  display: block;
+  font-size: 40px;
+  text-align: center;
+  font-family: "Jura", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
+.frame9 {
+  flex-direction: row;
+  background: rgba(229, 10, 10, 1);
+  box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 1);
+  width: 123px;
+  height: 87px;
+  display: flex;
+  position: relative;
+  flex-shrink: 0;
+  border-radius: 12px;
+  padding: 10px;
+}
+.frame9 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.frame9 > :global(.__wab_flex-container) > *,
+.frame9 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.frame9 > :global(.__wab_flex-container) > picture > img,
+.frame9
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 10px;
+}
+.text__tYqiJ {
+  display: block;
+  font-size: 40px;
+  text-align: center;
+  font-family: "Jura", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+  position: relative;
+}
